@@ -19,7 +19,7 @@ aa = "Python'''' is'''' map''''.''''"
 bb = 'Python\'\'\'\' is\'\'\'\' map\'\'\'\'.\'\'\'\''
 cc = """Python
 is
-map"""      # """, ''' 문자열 입력한대로 출력
+map"""      # """, ''' 문자열 입력한대로 출력 
 dd = "Python"
 ee = " is map"
 print(aa)
